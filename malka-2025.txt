@@ -1,0 +1,28 @@
+2025-04-02 - Day 1
+
+LEARN GIT - 
+	why learn git -
+		- because you will need to use it every day as a developer (unless you are an unpaid, solo hermit developer)		
+		- it is incredibly useful when you are working with other people
+		- it is simple to learn 		
+		- you can start calling yourself and thinking of yourself as a software developer if you know how to use git
+	What is the difference between git and github
+	What is a commit
+		How to do a commit
+		How to push your code
+		The value of good commit comments
+		The 
+	What are pull requests
+		How to do a pull request
+		How to review and approve a pull request
+	How to resolve merge conflicts - you will definitely encounter "developers" who are scared of merge conflicts, learning this on day 1 is high value.
+	
+
+TODO:
+	Create github repo
+	Clone the repo with fork (clone it to C:\source)
+	Commit and push this text file (the one you're reading right now)
+	Send me the repo
+	Resolve the merge conflict I create=
+	
+	 
