@@ -1,11 +1,12 @@
 2025-04-02 - Day 1
 
 LEARN GIT - 
-	why learn git -
-		- because you will need to use it every day as a developer (unless you are an unpaid, solo hermit developer)		
-		- it is incredibly useful when you are working with other people
-		- it is simple to learn 		
-		- you can start calling yourself and thinking of yourself as a software developer if you know how to use git
+	Why learn git - 		
+		- You will need to use it every day as a developer (unless you are an unpaid, solo hermit developer)		
+		- It is required when you are working with other people
+		- It is simple to learn 		
+		- You can start calling yourself and thinking of yourself as a software developer if you know how to use git
+		
 	What is the difference between git and github
 	What is a commit
 		How to do a commit
@@ -24,5 +25,22 @@ TODO:
 	Commit and push this text file (the one you're reading right now)
 	Send me the repo
 	Resolve the merge conflict I create
-	
-	 
+
+
+===============================================
+Even more things! 
+===============================================
+
+Now we're going to learn about Environment Variables, it's a little different on linux, windows and Mac, but the core concept is the same.
+
+1 - Read this - https://chatgpt.com/share/67ec9e40-a354-8011-96da-fcbea0190e89
+
+2 - download yt-dlp from here https://github.com/yt-dlp/yt-dlp/releases/tag/2025.03.31 (you want the .exe because, you're on a windows 64bit system)
+
+3 - Put the yt-dlp.exe file somewhere on the computer
+
+4 - Add that folder to your Environment paths
+
+5 - test that it worked by opening a command prompt and typing "yt-dlp" without quotes, if it says command not recognised, it did not work, you may need to 
+
+6 - Download a youtube video using yt-dlp
