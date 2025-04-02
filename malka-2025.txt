@@ -1,3 +1,20 @@
+2025-04-03 - Day 2
+We're going to be programming in python. 
+1 - Clone this repo https://github.com/egokick/game-translator.git
+2 - Read the code and understand what it does, you can use chatgpt to help
+3 - Get the code up and running, show it working.
+4 - Version 1 - You're going to add voice to voice real time translation. 
+		- specification/requirements:
+			- the user will select their input language (from a dropdown of supported languages) 
+			- the user will select their output language (from a dropdown of supported languages) 
+			- when the user speaks into their microphone, they will hear their speech in the translated language
+			- https://elevenlabs.io/ - use elevenlabs (make an account (I'll pay for the subscription))
+			- Read these things:
+				- https://elevenlabs.io/docs/conversational-ai/overview
+				- https://elevenlabs.io/docs/conversational-ai/quickstart
+				- https://elevenlabs.io/docs/conversational-ai/libraries/python 
+
+
 2025-04-02 - Day 1
 
 LEARN GIT - 
